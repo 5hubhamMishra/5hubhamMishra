@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubham Mishra</h1>
 
 <p align="center">
-  <strong>CSE Student • Python & AI/ML Enthusiast • Web Developer • Builder</strong>
+  <strong>Computer Science Engineering Student • Python • AI/ML • Web Development • Cybersecurity</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Python+%7C+AI+%7C+Machine+Learning;Building+Real+World+Projects;Exploring+Web+Development;Exploring+Cybersecurity;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,62 +15,58 @@
   <a href="https://www.linkedin.com/in/shubham-mishra-54a1ab294/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Python+%7C+Machine+Learning+%7C+AI;Building+Web+Applications;Learning+by+Building+Real+Projects" alt="Typing SVG" />
+  <a href="https://github.com/5hubhamMishra">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student interested in building practical software and exploring the intersection of **Python, Machine Learning, Artificial Intelligence, and Web Development**.
+I'm a Computer Science Engineering student who enjoys building practical projects and exploring different areas of software development.
 
-I enjoy turning ideas into working projects, experimenting with new technologies, and continuously improving my programming and problem-solving skills.
+My current interests include **Python, Machine Learning, Artificial Intelligence, Web Development, and Cybersecurity**.
 
-* 🎓 Computer Science Engineering student
-* 🐍 Working with Python and exploring Machine Learning
-* 🤖 Interested in Artificial Intelligence and practical AI applications
-* 🌐 Building and experimenting with web applications
-* 📚 Continuously learning new technologies and development practices
-* 🚀 Always looking for interesting projects and opportunities to grow
+I enjoy learning by building projects, experimenting with new technologies, and improving my problem-solving and programming skills.
+
+- 🎓 Computer Science Engineering Student
+- 🐍 Interested in Python and Machine Learning
+- 🤖 Exploring Artificial Intelligence
+- 🌐 Learning and building Web Applications
+- 🔐 Exploring Cybersecurity and Ethical Hacking
+- 🚀 Building practical projects and experimenting with new technologies
+- 📚 Continuously improving my programming and problem-solving skills
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" alt="Programming Languages"/>
 </p>
 
-### Web Development
+### 🌐 Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,django,tailwind" alt="Web Development"/>
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
 </p>
 
-### Tools
+### 🗄️ Databases & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman" alt="Tools"/>
 </p>
 
 ---
@@ -75,17 +75,17 @@ I enjoy turning ideas into working projects, experimenting with new technologies
 
 ### 🩺 Skin Cancer Classification
 
-A machine-learning project focused on classifying skin lesion images using image-based machine learning/deep-learning techniques.
+Machine learning/deep learning project focused on classifying skin lesion images.
 
-**Focus:** Machine Learning • Computer Vision • Python
+**Technologies:** Python • Machine Learning • Deep Learning • Computer Vision
 
 ---
 
 ### 🩸 Diabetes Prediction Web App
 
-A web-based machine-learning project designed to predict diabetes risk from user-provided health information.
+A machine-learning based web application designed to predict diabetes risk from user-provided information.
 
-**Focus:** Python • Machine Learning • Web Development
+**Technologies:** Python • Machine Learning • Web Development
 
 ---
 
@@ -93,21 +93,21 @@ A web-based machine-learning project designed to predict diabetes risk from user
 
 My personal portfolio website showcasing my projects, skills, and development journey.
 
-**Focus:** Web Development • HTML • CSS • JavaScript
+**Technologies:** HTML • CSS • JavaScript
 
 ---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=5hubhamMishra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="170"
+    src="https://github-readme-stats.vercel.app/api?username=5hubhamMishra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     alt="Shubham's GitHub Statistics"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=5hubhamMishra&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=5hubhamMishra&layout=compact&theme=tokyonight&hide_border=true"
     alt="Shubham's Top Languages"
   />
 </p>
@@ -115,45 +115,98 @@ My personal portfolio website showcasing my projects, skills, and development jo
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=5hubhamMishra&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    alt="Shubham's GitHub Streak"
   />
 </p>
+
 ---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5hubhamMishra&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=5hubhamMishra&theme=tokyo-night&hide_border=true&area=true"
+    alt="Shubham's GitHub Activity Graph"
+  />
+</p>
+
+---
+
+## 📋 GitHub Profile Summary
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5hubhamMishra&theme=tokyonight"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5hubhamMishra&theme=tokyonight"
+    alt="Repositories Per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=5hubhamMishra&theme=tokyonight"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=5hubhamMishra&theme=tokyonight"
+    alt="GitHub Statistics Summary"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=5hubhamMishra&theme=tokyonight&utcOffset=5.5"
+    alt="Productive Time"
+  />
 </p>
 
 ---
 
 ## 🎯 Current Goals
 
-* Strengthen my foundations in Data Structures & Algorithms
-* Build more practical Machine Learning projects
-* Improve my web-development skills
-* Learn how to design and build better APIs
-* Explore Artificial Intelligence and modern AI tools
-* Build projects that solve real-world problems
-* Contribute to open-source projects
+- 📚 Strengthen Data Structures & Algorithms
+- 🤖 Build more practical AI/ML projects
+- 🌐 Improve Web Development skills
+- 🔌 Learn and build REST APIs
+- 🔐 Explore Cybersecurity and Ethical Hacking
+- 🧠 Learn more about Artificial Intelligence
+- 🤝 Start contributing to Open Source
+- 🚀 Build projects that solve real-world problems
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/5hubhamMishra/5hubhamMishra/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
+
   <a href="https://5hubhamMishra.github.io">
     <img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
+
   <a href="https://www.linkedin.com/in/shubham-mishra-54a1ab294/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://github.com/5hubhamMishra">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
+  <i>Thanks for visiting my profile! ⭐</i>
 </p>
