@@ -96,18 +96,28 @@ My personal portfolio website showcasing my projects, skills, and development jo
 **Focus:** Web Development • HTML • CSS • JavaScript
 
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=5hubhamMishra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shubham's GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5hubhamMishra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=5hubhamMishra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="170"
+    alt="Shubham's GitHub Statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=5hubhamMishra&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Shubham's Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=5hubhamMishra&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=5hubhamMishra&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-
 ---
 
 ## 📈 Contribution Activity
