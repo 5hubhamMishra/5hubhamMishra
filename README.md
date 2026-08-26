@@ -102,12 +102,12 @@ My personal portfolio website showcasing my projects, skills, and development jo
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=5hubhamMishra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=5hubhamMishra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
     alt="Shubham's GitHub Statistics"
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=5hubhamMishra&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=5hubhamMishra&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
     alt="Shubham's Top Languages"
   />
 </p>
@@ -128,6 +128,24 @@ My personal portfolio website showcasing my projects, skills, and development jo
     src="https://github-readme-activity-graph.vercel.app/graph?username=5hubhamMishra&theme=tokyo-night&hide_border=true&area=true"
     alt="Shubham's GitHub Activity Graph"
   />
+</p>
+
+---
+
+## ⚡ Activity Overview
+
+<p align="center">
+  <strong>GitHub Contribution Activity Overview</strong>
+</p>
+
+<p align="center">
+  Commits • Code Reviews • Issues • Pull Requests
+</p>
+
+<p align="center">
+  <a href="https://github.com/5hubhamMishra">
+    View my live GitHub Activity Overview
+  </a>
 </p>
 
 ---
